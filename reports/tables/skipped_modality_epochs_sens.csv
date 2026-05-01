@@ -1,0 +1,16 @@
+subject_id,modality,reason,path
+204,ear_full_sens,missing_epoch_file,F:\LEMON\output\processed\sub-204\ear_full_sens-epo.fif
+204,ear_strict_sens,missing_epoch_file,F:\LEMON\output\processed\sub-204\ear_strict_sens-epo.fif
+204,scalp_sens,missing_epoch_file,F:\LEMON\output\processed\sub-204\scalp_sens-epo.fif
+207,ear_full_sens,missing_epoch_file,F:\LEMON\output\processed\sub-207\ear_full_sens-epo.fif
+207,ear_strict_sens,missing_epoch_file,F:\LEMON\output\processed\sub-207\ear_strict_sens-epo.fif
+207,scalp_sens,missing_epoch_file,F:\LEMON\output\processed\sub-207\scalp_sens-epo.fif
+209,scalp_sens,missing_epoch_file,F:\LEMON\output\processed\sub-209\scalp_sens-epo.fif
+212,scalp_sens,missing_epoch_file,F:\LEMON\output\processed\sub-212\scalp_sens-epo.fif
+213,ear_full_sens,missing_epoch_file,F:\LEMON\output\processed\sub-213\ear_full_sens-epo.fif
+213,ear_strict_sens,missing_epoch_file,F:\LEMON\output\processed\sub-213\ear_strict_sens-epo.fif
+215,ear_full_sens,missing_epoch_file,F:\LEMON\output\processed\sub-215\ear_full_sens-epo.fif
+215,ear_strict_sens,missing_epoch_file,F:\LEMON\output\processed\sub-215\ear_strict_sens-epo.fif
+216,ear_full_sens,missing_epoch_file,F:\LEMON\output\processed\sub-216\ear_full_sens-epo.fif
+216,ear_strict_sens,missing_epoch_file,F:\LEMON\output\processed\sub-216\ear_strict_sens-epo.fif
+216,scalp_sens,missing_epoch_file,F:\LEMON\output\processed\sub-216\scalp_sens-epo.fif

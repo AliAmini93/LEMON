@@ -1,0 +1,9 @@
+modality,contrast,roi,n_subjects,subjects,plot,grand_average_csv
+scalp_sens,face_vs_nonface,face_roi,11,"200,201,202,203,205,206,208,211,213,214,215",reports\erp_diff_sens\scalp_sens_face_vs_nonface_face_roi.png,reports\erp_diff_sens\scalp_sens_face_vs_nonface_face_roi_grand_average.csv
+scalp_sens,face_vs_nonface,central_roi,11,"200,201,202,203,205,206,208,211,213,214,215",reports\erp_diff_sens\scalp_sens_face_vs_nonface_central_roi.png,reports\erp_diff_sens\scalp_sens_face_vs_nonface_central_roi_grand_average.csv
+scalp_sens,face_vs_nonface,late_roi,11,"200,201,202,203,205,206,208,211,213,214,215",reports\erp_diff_sens\scalp_sens_face_vs_nonface_late_roi.png,reports\erp_diff_sens\scalp_sens_face_vs_nonface_late_roi_grand_average.csv
+scalp_sens,emotional_vs_neutral,face_roi,11,"200,201,202,203,205,206,208,211,213,214,215",reports\erp_diff_sens\scalp_sens_emotional_vs_neutral_face_roi.png,reports\erp_diff_sens\scalp_sens_emotional_vs_neutral_face_roi_grand_average.csv
+ear_full_sens,face_vs_nonface,ear_full,11,"200,201,202,203,205,206,208,209,211,212,214",reports\erp_diff_sens\ear_full_sens_face_vs_nonface_ear_full.png,reports\erp_diff_sens\ear_full_sens_face_vs_nonface_ear_full_grand_average.csv
+ear_strict_sens,face_vs_nonface,ear_strict,11,"200,201,202,203,205,206,208,209,211,212,214",reports\erp_diff_sens\ear_strict_sens_face_vs_nonface_ear_strict.png,reports\erp_diff_sens\ear_strict_sens_face_vs_nonface_ear_strict_grand_average.csv
+ear_full_sens,face_vs_nonface,ear_right,11,"200,201,202,203,205,206,208,209,211,212,214",reports\erp_diff_sens\ear_full_sens_face_vs_nonface_ear_right.png,reports\erp_diff_sens\ear_full_sens_face_vs_nonface_ear_right_grand_average.csv
+ear_full_sens,emotional_vs_neutral,ear_right,11,"200,201,202,203,205,206,208,209,211,212,214",reports\erp_diff_sens\ear_full_sens_emotional_vs_neutral_ear_right.png,reports\erp_diff_sens\ear_full_sens_emotional_vs_neutral_ear_right_grand_average.csv

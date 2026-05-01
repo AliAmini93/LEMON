@@ -1,0 +1,92 @@
+data_root: "F:/LEMON"
+output_root: "./output"
+
+subjects_expected:
+  - "200"
+  - "201"
+  - "202"
+  - "203"
+  - "204"
+  - "205"
+  - "206"
+  - "207"
+  - "208"
+  - "209"
+  - "211"
+  - "212"
+  - "213"
+  - "214"
+  - "215"
+  - "216"
+
+# Filled/overwritten by 01_manifest.py if desired
+subjects_exclude_main:
+  - "204"
+  - "207"
+  - "216"
+
+main_subjects:
+  - "200"
+  - "201"
+  - "202"
+  - "203"
+  - "205"
+  - "206"
+  - "208"
+  - "209"
+  - "211"
+  - "212"
+  - "213"
+  - "214"
+  - "215"
+
+sfreq_target: 250.0
+
+filters:
+  l_freq: 0.5
+  h_freq: 40.0
+  notch: 50.0
+
+epoch_main:
+  tmin: -0.2
+  tmax: 0.6
+
+epoch_sensitivity:
+  tmin: -0.2
+  tmax: 0.8
+
+baseline:
+  tmin: -0.2
+  tmax: 0.0
+
+artifact:
+  reject_uv: 100.0
+
+scalp:
+  drop_channels: ["EOG1", "EOG2"]
+  face_roi: ["P7", "P8", "TP7", "TP8", "O1", "O2"]
+  late_roi: ["Pz", "CP1", "CP2", "Cz"]
+  central_roi: ["Fz", "Cz", "Pz"]
+
+ear:
+  full_channels: ["Fpz", "M1", "M2", "EL1", "EL3", "EL4", "EL5", "ER1", "ER2", "ER3", "ER4"]
+  strict_drop_channels: ["Fpz"]
+  left_roi: ["EL1", "EL3", "EL4", "EL5"]
+  right_roi: ["ER1", "ER2", "ER3", "ER4"]
+  mastoid_roi: ["M1", "M2"]
+
+erp_windows_ms:
+  W1: [80, 130]
+  W2: [130, 220]
+  W3: [220, 320]
+  W4: [320, 600]
+
+stats:
+  test: "wilcoxon"  # or ttest
+  alpha: 0.05
+
+bad_channels:
+  "201":
+    scalp:
+      - "TP7"
+    ear: []

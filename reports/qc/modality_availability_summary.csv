@@ -1,0 +1,12 @@
+modality,n_present,n_missing
+beh,13,3
+ear,14,2
+scalp,15,1
+gsr,14,2
+hr,14,2
+gyro,14,2
+et_raw,14,2
+et_fix,14,2
+et_sac,14,2
+et_blink,14,2
+et_ev,13,3

@@ -1,0 +1,49 @@
+bad_channels:
+  "201":
+    scalp: ["CP5", "TP7", "T7"]
+    ear: ["ER3"]
+
+  "202":
+    scalp: ["FC5"]
+    ear: ["EL4"]
+
+  "203":
+    scalp: ["FC1"]
+    ear: []
+
+  "205":
+    scalp: ["CP2", "Fc2"]
+    ear: []
+
+  "206":
+    scalp: ["FC5", "F3"]
+    ear: []
+
+  "208":
+    scalp: ["FC5", "F3"]
+    ear: []
+
+  "211":
+    scalp: ["FC5", "F3", "TP8"]
+    ear: []
+
+  "213":
+    scalp: ["CP1", "FC1", "CP2", "Fc2", "F4"]
+    ear: []
+
+  "214":
+    scalp: ["Cz", "FC5", "F3"]
+    ear: []
+
+  "215":
+    scalp: ["Cz"]
+    ear: []
+
+exclude_modality:
+  scalp:
+    - "209"
+    - "212"
+
+  ear:
+    - "213"
+    - "215"

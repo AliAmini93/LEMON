@@ -1,0 +1,6 @@
+subject_id,reason,path
+204,missing_scalp_sens_epoch_file,F:\LEMON\output\processed\sub-204\scalp_sens-epo.fif
+207,missing_scalp_sens_epoch_file,F:\LEMON\output\processed\sub-207\scalp_sens-epo.fif
+209,missing_scalp_sens_epoch_file,F:\LEMON\output\processed\sub-209\scalp_sens-epo.fif
+212,missing_scalp_sens_epoch_file,F:\LEMON\output\processed\sub-212\scalp_sens-epo.fif
+216,missing_scalp_sens_epoch_file,F:\LEMON\output\processed\sub-216\scalp_sens-epo.fif

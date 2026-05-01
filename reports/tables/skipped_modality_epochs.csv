@@ -1,0 +1,7 @@
+subject_id,modality,reason
+209,scalp_main,missing_epoch_file
+212,scalp_main,missing_epoch_file
+213,ear_full_main,missing_epoch_file
+215,ear_full_main,missing_epoch_file
+213,ear_strict_main,missing_epoch_file
+215,ear_strict_main,missing_epoch_file

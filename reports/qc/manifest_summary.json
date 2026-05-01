@@ -1,0 +1,26 @@
+{
+  "n_expected": 16,
+  "n_main_subjects": 13,
+  "n_ear_only_subjects": 0,
+  "main_subjects": [
+    "200",
+    "201",
+    "202",
+    "203",
+    "205",
+    "206",
+    "208",
+    "209",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215"
+  ],
+  "ear_only_subjects": [],
+  "excluded_subjects": [
+    "204",
+    "207",
+    "216"
+  ]
+}

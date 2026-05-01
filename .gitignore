@@ -1,0 +1,39 @@
+# Raw BIDS / subject-level data
+sub-*/
+data/
+stimuli/
+
+# Large processed EEG outputs
+output/processed/
+*.set
+*.fdt
+*.fif
+*.edf
+*.bdf
+*.vhdr
+*.vmrk
+*.eeg
+
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# LaTeX / Overleaf zip exports
+LEMON_ERP_Final_Report_Overleaf*.zip
+
+# Optional: local scratch files
+untitled*.py

@@ -1,0 +1,17 @@
+subject_id,beh,ear,scalp,ear_events,scalp_events,gsr,hr,gyro,et_raw,et_fix,et_sac,et_blink,et_ev,include_main,include_ear_only,n_modalities_present,notes
+200,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+201,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+202,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+203,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+204,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,2,"missing:beh,ear,ear_events,gsr,hr,gyro,et_raw,et_fix,et_sac,et_blink,et_ev"
+205,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+206,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+207,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,2,"missing:beh,ear,ear_events,gsr,hr,gyro,et_raw,et_fix,et_sac,et_blink,et_ev"
+208,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+209,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+211,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+212,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+213,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+214,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+215,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,13,complete
+216,False,True,False,True,False,True,True,True,True,True,True,True,False,False,False,9,"missing:beh,scalp,scalp_events,et_ev"
